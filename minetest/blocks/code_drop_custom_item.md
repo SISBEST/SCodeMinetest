@@ -7,9 +7,7 @@ minetest.register_node("campmods:#####", { -- This will be how you reference thi
         is_ground_content = true,
         groups = {choppy = 1},
 
-        -- START OF NEW CODE --
-        drop = "campmods:blue_lightsaber",
-        -- END OF NEW CODE --
+        drop = "default:sword_diamond", -- TO CHANGE LATER
 })
 
 -- START OF NEW CODE --
