@@ -1,4 +1,4 @@
-## Copy the following code and add it to beginning of you your `init.lua` file
+## Copy the following code and add it to `beginning` of you your `init.lua` file
 
 ```lua
 on_punch_particles = function(file,num,vx,vy,vz,size) 
@@ -19,7 +19,7 @@ on_punch_particles = function(file,num,vx,vy,vz,size)
   end
 end
 ```
-## Then copy `new line only` and add it to your `init.lua` file
+## Then copy the `new line only` and add it to your `init.lua` file
 
 ```lua
 minetest.register_node("campmods:#####", { -- This will be how you reference this block in the code
