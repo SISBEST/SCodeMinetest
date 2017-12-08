@@ -1,7 +1,7 @@
 ## Copy the `new lines only` and add it to your `init.lua` file
 
 ```lua
-minetest.register_node("campmods:#####", { -- This will be how you reference this block in the code
+minetest.register_node("campmod:#####", { -- This will be how you reference this block in the code
         description = "#####", -- This will be the name that appears in game
         tiles = {"#####"}, -- This will be the name of the texture image
         is_ground_content = true,
@@ -11,7 +11,7 @@ minetest.register_node("campmods:#####", { -- This will be how you reference thi
 })
 
 -- START OF NEW CODE --
-minetest.register_tool("campmods:blue_lightsaber", {
+minetest.register_tool("campmod:blue_lightsaber", {
     description = "Blue Lightsaber",
     inventory_image = "blue_lightsaber.png",
     tool_capabilities = {
