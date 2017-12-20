@@ -1,4 +1,4 @@
-## Copy the following code and add it to `beginning` of you your `init.lua` file
+## Copy the following code and paste it at the `BEGINNING` of your `init.lua` file
 
 ```lua
 on_punch_particles = function(file,num,vx,vy,vz,size) 
