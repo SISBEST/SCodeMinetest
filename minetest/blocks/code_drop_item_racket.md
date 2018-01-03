@@ -6,8 +6,7 @@
 (define-block ### ### ###)
 
 ;; -- START OF NEW CODE --
-(add-behaviour-to ###
-                  (drop "default:sword_diamond"))
+(add-behaviour-to ### (drop "default:sword_diamond"))
 ;; -- END OF NEW CODE --
         
 (compile-mod my-mod)
