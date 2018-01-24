@@ -22,3 +22,5 @@
         
 ```
 **Reminder:**  **CTRL+C** to copy and **CTRL+V** to paste
+
+## Click [here](https://s3.amazonaws.com/thoughtstem.cms.dev/MinetestAssets/Curriculum/videos/multipleItemDrop.mp4) to watch the tutorial video
