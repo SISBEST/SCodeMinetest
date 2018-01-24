@@ -14,3 +14,5 @@
 (compile-mod my-mod)
 ```
 **Reminder:**  **CTRL+C** to copy and **CTRL+V** to paste
+
+## Click [here](https://s3.amazonaws.com/thoughtstem.cms.dev/MinetestAssets/Curriculum/videos/onPunchParticles.mp4) to watch the tutorial video
