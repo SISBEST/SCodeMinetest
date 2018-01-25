@@ -33,5 +33,4 @@
 6. Click [here](https://github.com/thoughtstem/TS-CurriculumPublic/edit/master/minetest/blocks/code_multi_texture_block_racket.md) for mutiple textured block code
 
 
-A. Need some textures click [here](https://github.com/thoughtstem/TS-CurriculumPublic/tree/master/minetest/images)
-B. Need a simple racket file click [here](https://s3.amazonaws.com/thoughtstem.cms.dev/MinetestAssets/Curriculum/starter_Files/mymod.rkt)
+Need some textures click [here](https://github.com/thoughtstem/TS-CurriculumPublic/tree/master/minetest/images), or a simple racket file click [here](https://s3.amazonaws.com/thoughtstem.cms.dev/MinetestAssets/Curriculum/starter_Files/mymod.rkt)
