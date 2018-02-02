@@ -1,28 +1,25 @@
-## Copy the following code into your `mod.rkt` file
+## Copy the `new lines only` and add it to your `mod.rkt` file
 
 ```
 #lang minetest
 
 ;; -- START OF NEW CODE --
+(define-block aaa ### ###)
 
-(define-block xxx yyy zzz)
-
-(add-behaviour-to xxx
-                  (tiles (list aaa ;top face
-                               bbb ;bottom face
-                               ccc ;right face
-                               ddd ;left face
-                               eee ;back face
-                               fff ;front face
-                               )))
-                               
+(define bbb
+  (schematic wool-mapping (scale
+                           .1 ###)))
+                         
+(game-rule
+ on: block punch aaa
+ do: (place-schematic bbb))
 ;; -- END OF NEW CODE --
-
+        
 (compile-mod my-mod)
 ```
-* Highlight the code only and press **CTRL+C** to copy and **CTRL+V** to paste
+**Reminder:**  **CTRL+C** to copy and **CTRL+V** to paste
 
-## Click [here](https://s3.amazonaws.com/thoughtstem.cms.dev/MinetestAssets/Curriculum/videos/fixMultiTextureBlock.mp4) to watch the tutorial video
+## Click [here]() to watch the tutorial video
 
 ## Previous Code
 1. Click [here](https://github.com/thoughtstem/TS-CurriculumPublic/blob/master/minetest/blocks/code_custom_block_racket.md) for custom block code
