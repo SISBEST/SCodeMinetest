@@ -19,7 +19,7 @@
 ```
 **Reminder:**  **CTRL+C** to copy and **CTRL+V** to paste
 
-## Click [here]() to watch the tutorial video
+## Click [here](https://s3.amazonaws.com/thoughtstem.cms.dev/MinetestAssets/Curriculum/videos/schemCode.mp4) to watch the tutorial video
 
 ## Previous Code
 1. Click [here](https://github.com/thoughtstem/TS-CurriculumPublic/blob/master/minetest/blocks/code_custom_block_racket.md) for custom block code
@@ -28,6 +28,6 @@
 4. Click [here](https://github.com/thoughtstem/TS-CurriculumPublic/blob/master/minetest/blocks/code_drop_multiple_items_racket.md) for multiple item drop code
 5. Click [here](https://github.com/thoughtstem/TS-CurriculumPublic/blob/master/minetest/blocks/code_on_punch_particles_racket.md) for particles code
 6. Click [here](https://github.com/thoughtstem/TS-CurriculumPublic/blob/master/minetest/blocks/code_multi_texture_block_racket.md) for mutiple textured block code
-
+7. Click [here](https://github.com/thoughtstem/TS-CurriculumPublic/blob/master/minetest/blocks/code_on_punch_schematic_racket.md) for on-punch schematic code
 
 Need some textures click [here](https://github.com/thoughtstem/TS-CurriculumPublic/tree/master/minetest/images), or a simple racket file click [here](https://s3.amazonaws.com/thoughtstem.cms.dev/MinetestAssets/Curriculum/starter_Files/mymod.rkt)
