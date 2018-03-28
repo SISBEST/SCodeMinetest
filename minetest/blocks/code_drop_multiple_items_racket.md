@@ -1,4 +1,4 @@
-## Copy the `only the new lines` and add it to your `mod.rkt` file
+## Copy `only the new lines` and add it to your `mod.rkt` file
 
 ```
 #lang minetest
